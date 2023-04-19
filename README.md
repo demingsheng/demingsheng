@@ -1,4 +1,4 @@
-Deming Sheng / 盛德明
+[Deming Sheng](https://demingsheng.github.io/) / 盛德明
 ==
 
 I am an incoming PhD student at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) in Saudi Arabia, supervised by [Prof. Ricardo Henao](https://www.kaust.edu.sa/en/study/faculty/ricardo-henao). I am currently working on [Bioinformatics and Artificial Intelligence](https://bioe.kaust.edu.sa/team/bioinformatics-machine-learning).
